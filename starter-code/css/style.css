@@ -34,9 +34,9 @@ nav a {
 }
 
 .top-links {
-  display: inline-block;
   padding: 0;
   margin: 0 20px 0 0;
+  float: right;
 }
 
 .top-links li {
@@ -55,6 +55,8 @@ header {
   text-decoration: none;
   color: white;
   font: 0.1em;
+  display: inline-block;
+  margin-top: 15px;
 }
 
 button{
@@ -74,9 +76,34 @@ button{
   padding: 10px;
 
 }
+.bar{
+  width: 75%;
+  overflow: hidden;
+  float: left;
+}
+.bar a{
+  margin-left: 60px;
+}
+
+.logo{
+  float:left;
+  margin-right: 10px; 
+}
+.logo img{
+  height: 50px;
+}
+
+.bear{
+  float: right;
+  height: 40px;
+  padding-right: 32px;
+}
+.bear img{
+  height: 50px;
+}
 .search-bar {
   margin: auto;
-  width: 75%;
+  width: 95%;
   border: 1px;
   padding: 10px;
   height: 20px;
@@ -84,6 +111,7 @@ button{
   outline: none;
   color: white;
   background-color: rgb(31, 82, 111);
+  float: left;
 
 }
 
@@ -112,6 +140,8 @@ button{
   padding-top: 100px;
   border: 15px;
 }
+
+
 
 .collab-img {
   width: 900px;
