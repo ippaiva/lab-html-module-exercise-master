@@ -1,0 +1,23 @@
+{
+  "name": "lab-html-module-exercise-master",
+  "version": "1.0.0",
+  "description": "![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ippaiva/lab-html-module-exercise-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ippaiva/lab-html-module-exercise-master/issues"
+  },
+  "homepage": "https://github.com/ippaiva/lab-html-module-exercise-master#readme"
+}
